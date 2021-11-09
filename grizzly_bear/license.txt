@@ -1,0 +1,11 @@
+Model Information:
+* title:	Grizzly bear
+* source:	https://sketchfab.com/3d-models/grizzly-bear-2837bb7904a44ea181b7c9b9fdaa613f
+* author:	AVINAS (https://sketchfab.com/AVINAS)
+
+Model License:
+* license type:	CC-BY-ND-4.0 (http://creativecommons.org/licenses/by-nd/4.0/)
+* requirements:	Author must be credited. Modified versions can not be distributed. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Grizzly bear" (https://sketchfab.com/3d-models/grizzly-bear-2837bb7904a44ea181b7c9b9fdaa613f) by AVINAS (https://sketchfab.com/AVINAS) licensed under CC-BY-ND-4.0 (http://creativecommons.org/licenses/by-nd/4.0/)
